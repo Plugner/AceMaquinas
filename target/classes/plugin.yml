@@ -1,0 +1,5 @@
+name: AceMaquinas
+version: 1.0-SNAPSHOT
+main: com.servidoresspace.pmaquinas.PMaquinas
+commands:
+ Maquina:

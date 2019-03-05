@@ -1,0 +1,5 @@
+name: AceMaquinas
+version: ${project.version}
+main: com.servidoresspace.pmaquinas.PMaquinas
+commands:
+ Maquina:
